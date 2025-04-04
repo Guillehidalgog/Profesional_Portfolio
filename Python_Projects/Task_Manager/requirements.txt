@@ -1,0 +1,11 @@
+# sqlite3: Biblioteca para interactuar con bases de datos SQLite.
+# Nota: No es necesario incluirlo aquí, ya que forma parte de la biblioteca estándar de Python.
+sqlite3
+
+# argparse: Módulo para analizar argumentos de línea de comandos.
+# Nota: También es parte de la biblioteca estándar de Python y no necesita ser listado.
+argparse
+
+# unittest: Framework para escribir y ejecutar pruebas unitarias.
+# Nota: Este módulo también es parte de la biblioteca estándar de Python.
+unittest
